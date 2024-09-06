@@ -73080,7 +73080,7 @@ XB(){this.ac(new A.a8y(this))},
 K(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null
 A.azf(B.OT)
 s=t.E
-r=A.eT(A.a([A.al_(B.l,1,30,A.a([B.kg,A.mg(A.lh(B.c5,A.a([new A.eq(B.T,h,h,A.ha("assets/Ticket.png",h,25,25),h),A.H2(h,A.dr(h,B.xQ,B.q,h,B.kj,new A.cS(B.iN,h,h,A.hM(8),h,h,B.at),h,h,B.lq,h),h,h,h,26,-2,h)],s),B.q,B.bW),"My Tickets"),A.mg(A.ha("assets/home.png",h,25,25),"Home"),A.mg(A.ha("assets/Rider.png",h,25,25),"Rider Tools"),A.mg(A.ha("assets/More.png",h,25,25),"More")],t.ur),new A.a8S(a),B.j,B.ki,B.ro),A.dr(h,h,B.q,B.l,h,h,20,h,h,h)],s),B.a1,B.a4,B.bS)
+r=A.eT(A.a([A.al_(B.l,1,30,A.a([B.kg,A.mg(A.lh(B.c5,A.a([new A.eq(B.T,h,h,A.ha("assets/Ticket.png",h,25,25),h),A.H2(h,A.dr(h,B.xQ,B.q,h,B.kj,new A.cS(B.iN,h,h,A.hM(8),h,h,B.at),h,h,B.lq,h),h,h,h,-4,-5,h)],s),B.q,B.bW),"My Tickets"),A.mg(A.ha("assets/home.png",h,25,25),"Home"),A.mg(A.ha("assets/Rider.png",h,25,25),"Rider Tools"),A.mg(A.ha("assets/More.png",h,25,25),"More")],t.ur),new A.a8S(a),B.j,B.ki,B.ro),A.dr(h,h,B.q,B.l,h,h,20,h,h,h)],s),B.a1,B.a4,B.bS)
 q=A.hM(15)
 p=i.z
 o=p[i.Q]
