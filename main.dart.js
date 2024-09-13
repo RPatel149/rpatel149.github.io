@@ -77991,7 +77991,7 @@ A.acB.prototype={
 $0(){A.aom(new A.abK(),this.a,t.z)},
 $S:0}
 A.abK.prototype={
-$1(a){var s=null,r=A.aK("Activate Tickets",s,s,s,A.aZ().$2$color$fontWeight(B.h,B.I),s,s),q=A.aK("Are you sure that you want to activate this ticket now? \n3 Zones (INTRSTATE) \nOnce ypur ticket is activated, it will be available for use for the next 30 minutes",s,s,s,A.aZ().$1$color(B.h),s,s)
+$1(a){var s=null,r=A.aK("Activate Tickets",s,s,s,A.aZ().$2$color$fontWeight(B.h,B.I),s,s),q=A.aK("Are you sure that you want to activate this ticket now? \n3 Zones (INTRSTATE) \nOnce your ticket is activated, it will be available for use for the next 30 minutes",s,s,s,A.aZ().$1$color(B.h),s,s)
 return A.alI(A.a([A.zo(A.aK("No",s,s,s,A.aZ().$2$color$fontWeight(B.h,B.I),s,s),new A.abG(a),s),A.zo(A.aK("Yes",s,s,s,A.aZ().$2$color$fontWeight(B.h,B.I),s,s),new A.abH(a),s)],t.p),B.BL,q,r)},
 $S:85}
 A.abG.prototype={
