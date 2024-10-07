@@ -78545,7 +78545,7 @@ $1(a){var s,r=null,q=t.w,p=A.b7(a,r,q).w
 q=A.b7(a,r,q).w
 s=this.a.cy
 s=s.length!==0?A.a5R(s):A.dx("assets/barcode.png",B.fl,r,r)
-return A.lQ(r,B.h,A.fg(A.uU(400,B.u,A.d0(A.a([A.dp(r,A.arz(A.iO(s,q.a.a*0.6,p.a.a*0.6),"barcodeImage"),B.L,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.acm(a),r,r,r),B.yy,A.aK("Tap to enlarge",r,r,r,A.aV().$2$fontSize$fontWeight(15,B.t),r,r)],t.p),B.v,B.C,B.F)),r,r),r)},
+return A.lQ(r,B.h,A.fg(A.uU(400,B.u,A.d0(A.a([A.dp(r,A.arz(A.iO(s,q.a.a*0.6,p.a.a*0.6),"barcodeImage"),B.L,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.acm(a),r,r,r),B.yy,A.aK("Tap bar code to go back",r,r,r,A.aV().$2$fontSize$fontWeight(15,B.t),r,r)],t.p),B.v,B.C,B.F)),r,r),r)},
 $S:181}
 A.acm.prototype={
 $0(){A.bd(this.a,!1).Fu(null)},
@@ -78668,7 +78668,7 @@ m=A.b7(a,g,n).w
 l=A.cG(15)
 k=h.z[0]
 k=A.a([k,B.h,B.h,k],t.t_)
-m=A.b3(g,A.d0(A.a([A.dp(g,A.uU(70,B.u,A.aK(B.e.k(h.x),g,g,g,A.aV().$3$fontSize$fontWeight$height(85,B.H,1),B.aD,g)),B.L,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,h.gD6(),g,g,g),B.R1,A.dp(g,A.uU(10,B.u,A.aK("ZONES RIDE",g,g,g,A.aV().$3$fontSize$fontWeight$height(25,B.H,1),B.aD,g)),B.L,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g),B.yz,A.ant(!1,!0,A.aK("**Not Valid for HBLR**",g,g,g,A.aV().$2$fontSize$fontWeight(20,B.H),g,g),g,!0,g,g,g,g,g,g,g,g,g,g,g,g,g,g)],s),B.v,B.bM,B.F),B.l,g,g,new A.by(g,g,g,l,g,new A.ln(B.dW,B.cp,B.dN,k,B.jd,g),B.P),g,g,g,m.a.a)
+m=A.b3(g,A.d0(A.a([A.dp(g,A.uU(70,B.u,A.aK(B.e.k(h.x),g,g,g,A.aV().$3$fontSize$fontWeight$height(85,B.H,1),B.aD,g)),B.L,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,h.gD6(),g,g,g),B.R1,A.dp(g,A.uU(10,B.u,A.aK("ZONE RIDE",g,g,g,A.aV().$3$fontSize$fontWeight$height(24,B.H,1),B.aD,g)),B.L,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g),B.yz,A.ant(!1,!0,A.aK("**Not Valid for HBLR**",g,g,g,A.aV().$2$fontSize$fontWeight(10,B.H),g,g),g,!0,g,g,g,g,g,g,g,g,g,g,g,g,g,g)],s),B.v,B.bM,B.F),B.l,g,g,new A.by(g,g,g,l,g,new A.ln(B.dW,B.cp,B.dN,k,B.jd,g),B.P),g,g,g,m.a.a)
 k=A.fg(A.aK(A.aqG("hh:mm:ss a").rK(new A.bC(Date.now(),0,!1)),g,g,g,A.aV().$2$fontSize$fontWeight(23,B.bs),g,g),g,g)
 l=A.cA(A.a([A.aK(h.ch[A.y3(new A.bC(Date.now(),0,!1))-1]+", ",g,g,g,A.aV().$2$fontSize$fontWeight(23,B.bs),g,g),A.aK(h.ay[A.dS(new A.bC(Date.now(),0,!1))-1]+" "+B.d.dm(B.e.k(A.y2(new A.bC(Date.now(),0,!1))),2,"0")+", "+A.k4(new A.bC(Date.now(),0,!1))+" ",g,g,g,A.aV().$2$fontSize$fontWeight(23,B.bs),g,g)],s),B.v,B.bM,B.F)
 n=h.d?A.cA(A.a([h.zU(B.lP,1),h.zU(B.lX,2),h.zU(B.lT,3)],s),B.b1,B.C,B.F):A.b3(g,g,B.l,B.y,g,g,20,g,g,A.b7(a,g,n).w.a.a)
@@ -78745,7 +78745,7 @@ $1(a){var s,r=null,q=t.w,p=A.b7(a,r,q).w
 q=A.b7(a,r,q).w
 s=this.a.cx
 s=s.length!==0?A.a5R(s):A.dx("assets/barcode.png",B.fl,r,r)
-return A.lQ(r,B.h,A.fg(A.uU(400,B.u,A.d0(A.a([A.dp(r,A.arz(A.iO(s,q.a.a*0.6,p.a.a*0.6),"barcodeImage"),B.L,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.acl(a),r,r,r),B.yy,A.aK("Tap to enlarge",r,r,r,A.aV().$2$fontSize$fontWeight(15,B.t),r,r)],t.p),B.v,B.C,B.F)),r,r),r)},
+return A.lQ(r,B.h,A.fg(A.uU(400,B.u,A.d0(A.a([A.dp(r,A.arz(A.iO(s,q.a.a*0.6,p.a.a*0.6),"barcodeImage"),B.L,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.acl(a),r,r,r),B.yy,A.aK("Tap bar code to go back",r,r,r,A.aV().$2$fontSize$fontWeight(15,B.t),r,r)],t.p),B.v,B.C,B.F)),r,r),r)},
 $S:181}
 A.acl.prototype={
 $0(){A.bd(this.a,!1).Fu(null)},
@@ -82382,14 +82382,14 @@ B.bk=new A.i(4278210457)
 B.lI=new A.i(4280361249)
 B.iz=new A.i(4281348144)
 B.BV=new A.i(4281808695)
-B.lP=new A.i(4281858995)
+B.lP=new A.i(4281989600)
 B.c4=new A.i(4282532418)
 B.iC=new A.i(4284572001)
 B.C6=new A.i(4284809178)
-B.lT=new A.i(4288012417)
+B.lT=new A.i(4288012671)
 B.lU=new A.i(4288585374)
 B.Cf=new A.i(4289374890)
-B.lX=new A.i(4291803296)
+B.lX=new A.i(4291868832)
 B.lY=new A.i(4292030255)
 B.lZ=new A.i(4292927712)
 B.m0=new A.i(4294107214)
