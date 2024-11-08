@@ -13397,7 +13397,7 @@ e=h
 d=e
 if(g==null)g=n?B.lR:B.eO
 c=A.aba(g)
-b=n?B.m3:B.m5
+b=n?B.m3:B.m4
 a=n?B.k:B.lN
 a0=c===B.ah
 a1=n?A.O(31,255,255,255):A.O(31,0,0,0)
@@ -13415,11 +13415,11 @@ a5=a5===B.ah?B.f:B.k
 a7=n?B.f:B.k
 a8=n?B.k:B.f
 d1=A.Xg(p,o,B.m7,c6,c6,c6,a4?B.f:B.k,a8,c6,c6,a6,c6,c6,c6,a5,c6,c6,c6,a7,c6,c6,c6,c6,c6,c6,c6,B.eO,c6,c6,c6,c6,a3,c6,c6,c6,c6,d,c6,c6,c6,c6,c6,c6,c6,c6,c6,c6,c6,c6,c6)}a9=n?B.O:B.R
-b0=n?B.iD:B.m9
+b0=n?B.iD:B.ma
 if(e==null)e=n?B.c9:B.f
 if(f==null){f=d1.y
 if(f.j(0,g))f=B.f}b1=n?B.BX:A.O(153,0,0,0)
-b2=new A.FL(n?B.lP:B.m8,c6,a1,a2,c6,c6,d1,s)
+b2=new A.FL(n?B.lP:B.m9,c6,a1,a2,c6,c6,d1,s)
 b3=n?B.BT:B.BS
 b4=n?B.lC:B.iu
 b5=n?B.lC:B.BV
@@ -79198,7 +79198,7 @@ s=t.p
 return A.kg(q,q,A.f5(B.b3,A.a([p,A.ea(new A.bW(B.j0,A.cV(A.a([B.Fs,B.kk,B.W4,B.yH,B.W3,B.yK,n,B.kk,A.ap8(!0,B.cO,!1,q,!0,B.a3,q,A.axq(),r.e,q,q,q,q,q,2,A.aop(q,new A.ha(4,A.ci(30),B.p),q,q,q,q,q,q,!0,q,q,q,q,q,q,o,!0,q,q,q,q,q,q,q,q,q,q,q,q,B.zc,"Password",q,q,q,q,q,q,q,q,q,q,B.Fy,q,q,q,q,q,q,q,q,q,q,q),B.H,!0,q,!0,q,!1,q,B.d7,q,q,q,q,q,q,q,1,q,q,!0,"\u2022",q,q,q,q,q,!1,q,!1,q,!0,q,B.j_,q,q,B.cz,B.c6,q,q,q,q,q,q,B.z9,B.aG,q,B.kq,q,q,q,q),B.yK,A.i_(new A.GY(r.ga6J(),q,q,q,A.aCu(q,q,B.f,q,q,q,q,q,q,q,q,q,q,q,new A.cR(A.ci(30),B.p),q,q,q,q),q,q,!1,q,!0,B.W2,q),50,1/0),B.kk,A.aH("People Login : "+r.f,q,q,q,B.ST,q,q)],s),B.v,B.by,B.F),q),q,q)],s),B.a3,B.b_),q)}}
 A.ahs.prototype={
 $0(){var s=A.fg(this.b.a.h(0,"loginCount"))
-if(s==null)s=0
+if(s==null)s=8
 this.a.f=s},
 $S:0}
 A.ahr.prototype={
@@ -79281,7 +79281,7 @@ A.acU.prototype={
 $0(){},
 $S:0}
 A.oq.prototype={
-af(){var s=Date.now(),r=A.a([B.m0],t.t_)
+af(){var s=Date.now(),r=A.a([B.m5],t.t_)
 return new A.AI(new A.bE(s,0,!1),r,["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"],["Mon","Tue","Wed","Thu","Fri","Sat","Sun"],new A.p8(B.f9,$.al()))}}
 A.AI.prototype={
 a_4(a){var s=new A.acJ(),r=a.a,q=s.$1(B.e.bR(r,6e7)%60),p=s.$1(B.e.bR(r,1e6)%60)
@@ -79325,7 +79325,7 @@ p=p[0]
 n=A.a([p,B.f,B.f,p],n)
 k=A.b2(h,A.cV(A.a([A.db(h,A.v6(92,B.x,A.aH(B.e.k(i.x),h,h,h,A.aU().$3$fontSize$fontWeight$height(110,B.bu,1),B.aF,h)),B.H,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,i.gDu(),h,h,h),B.yL,A.v6(20,B.x,A.aH("ZONES",h,h,h,A.aU().$3$fontSize$fontWeight$height(35,B.bu,1),B.aF,h))],s),B.v,B.by,B.F),B.l,h,h,new A.bw(h,h,h,j,h,new A.jS(B.de,B.c3,B.d5,n,B.jh,h),B.N),h,h,h,k.a.a)
 n=A.cI(A.a([A.aH(i.CW[A.yg(new A.bE(Date.now(),0,!1))-1]+", ",h,h,h,A.aU().$2$fontSize$fontWeight(25,B.bu),h,h),A.aH(i.ay[A.dS(new A.bE(Date.now(),0,!1))-1]+" "+B.d.dn(B.e.k(A.yf(new A.bE(Date.now(),0,!1))),2,"0")+" ",h,h,h,A.aU().$2$fontSize$fontWeight(25,B.bu),h,h),A.aH(A.arI("hh:mm:ss a").rW(new A.bE(Date.now(),0,!1)),h,h,h,A.aU().$2$fontSize$fontWeight(25,B.bu),h,h)],s),B.v,B.by,B.F)
-p=i.d?A.cI(A.a([i.A0(B.m4,1),i.A0(B.ma,2),i.A0(B.m_,3)],s),B.b4,B.E,B.F):A.b2(h,h,B.l,B.z,h,h,20,h,h,A.bb(a,h,l).w.a.a)
+p=i.d?A.cI(A.a([i.A0(B.m8,1),i.A0(B.lY,2),i.A0(B.m0,3)],s),B.b4,B.E,B.F):A.b2(h,h,B.l,B.z,h,h,20,h,h,A.bb(a,h,l).w.a.a)
 l=A.aH("Expires in  ",h,h,h,A.aU().$2$fontSize$fontWeight(19,B.I),h,h)
 j=i.w
 j===$&&A.b()
@@ -79483,7 +79483,7 @@ A.adQ.prototype={
 $0(){},
 $S:0}
 A.pf.prototype={
-af(){var s=Date.now(),r=A.a([B.m0],t.t_)
+af(){var s=Date.now(),r=A.a([B.m5],t.t_)
 return new A.AH(new A.bE(s,0,!1),r,["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],new A.p8(B.f9,$.al()))}}
 A.AH.prototype={
 a2x(a){var s=new A.acI(),r=a.a,q=s.$1(B.e.bR(r,6e7)%60),p=s.$1(B.e.bR(r,1e6)%60)
@@ -79526,7 +79526,7 @@ m=A.b2(f,A.cV(A.a([A.db(f,A.v6(75,B.x,A.aH(B.e.k(g.x),f,f,f,A.aU().$3$fontSize$f
 k=A.ea(A.db(f,A.aH("View Validator Instructions",f,f,f,A.aU().$3$color$fontSize$fontWeight(B.k,15,B.dz),f,f),B.H,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f),f,f)
 l=A.ea(A.aH(A.arI("hh:mm:ss a").rW(new A.bE(Date.now(),0,!1)),f,f,f,A.aU().$2$fontSize$fontWeight(23,B.bu),f,f),f,f)
 j=A.cI(A.a([A.aH(g.ch[A.yg(new A.bE(Date.now(),0,!1))-1]+", ",f,f,f,A.aU().$2$fontSize$fontWeight(23,B.bu),f,f),A.aH(g.ay[A.dS(new A.bE(Date.now(),0,!1))-1]+" "+B.d.dn(B.e.k(A.yf(new A.bE(Date.now(),0,!1))),2,"0")+", "+A.kc(new A.bE(Date.now(),0,!1))+" ",f,f,f,A.aU().$2$fontSize$fontWeight(23,B.bu),f,f)],s),B.v,B.by,B.F)
-n=g.d?A.cI(A.a([g.Af(B.m4,1),g.Af(B.ma,2),g.Af(B.m_,3)],s),B.b4,B.E,B.F):A.b2(f,f,B.l,B.z,f,f,20,f,f,A.bb(a,f,n).w.a.a)
+n=g.d?A.cI(A.a([g.Af(B.m8,1),g.Af(B.lY,2),g.Af(B.m0,3)],s),B.b4,B.E,B.F):A.b2(f,f,B.l,B.z,f,f,20,f,f,A.bb(a,f,n).w.a.a)
 i=A.aH("Expires in  ",f,f,f,A.aU().$2$fontSize$fontWeight(19,B.I),f,f)
 h=g.w
 h===$&&A.b()
@@ -83188,8 +83188,8 @@ B.BG=new A.fV(B.K,null,null,B.Fw,null)
 B.FI=new A.cc(B.jb,36,B.f,null,null)
 B.ly=new A.fV(B.K,null,null,B.FI,null)
 B.EV=new A.bi(57811,!1)
-B.m9=new A.i(4293128957)
-B.m5=new A.i(4290502395)
+B.ma=new A.i(4293128957)
+B.m4=new A.i(4290502395)
 B.m2=new A.i(4287679225)
 B.Cs=new A.i(4284790262)
 B.Cl=new A.i(4282557941)
@@ -83198,7 +83198,7 @@ B.lP=new A.i(4280191205)
 B.lN=new A.i(4279858898)
 B.C3=new A.i(4279592384)
 B.C1=new A.i(4279060385)
-B.N7=new A.cu([50,B.m9,100,B.m5,200,B.m2,300,B.Cs,400,B.Cl,500,B.lS,600,B.lP,700,B.lN,800,B.C3,900,B.C1],t.pl)
+B.N7=new A.cu([50,B.ma,100,B.m4,200,B.m2,300,B.Cs,400,B.Cl,500,B.lS,600,B.lP,700,B.lN,800,B.C3,900,B.C1],t.pl)
 B.eO=new A.o7(B.N7,4280391411)
 B.Fu=new A.cc(B.EV,30,B.eO,null,null)
 B.BI=new A.fV(B.K,null,null,B.Fu,null)
@@ -83282,17 +83282,17 @@ B.bl=new A.i(4278210457)
 B.lR=new A.i(4280361249)
 B.iA=new A.i(4281348144)
 B.Cf=new A.i(4281808695)
-B.m_=new A.i(4282432199)
+B.lY=new A.i(4282206147)
 B.c9=new A.i(4282532418)
-B.m0=new A.i(4283077374)
+B.m0=new A.i(4284309402)
 B.iD=new A.i(4284572001)
 B.Ct=new A.i(4284809178)
 B.m3=new A.i(4288585374)
-B.m4=new A.i(4289257824)
 B.CC=new A.i(4289374890)
+B.m5=new A.i(4291466188)
 B.m7=new A.i(4292030255)
-B.m8=new A.i(4292927712)
-B.ma=new A.i(4293916917)
+B.m8=new A.i(4292890753)
+B.m9=new A.i(4292927712)
 B.CT=new A.i(4294148393)
 B.mc=new A.i(4294638330)
 B.D1=new A.i(436207616)
@@ -83361,8 +83361,8 @@ B.Dh=new A.bY(B.iI,"secondarySystemFill",null,B.iI,B.lF,B.lB,B.lI,B.iI,B.lF,B.lB
 B.ix=new A.i(4278221567)
 B.lM=new A.i(4278879487)
 B.lL=new A.i(4278206685)
-B.lZ=new A.i(4282424575)
-B.iN=new A.bY(B.ix,"systemBlue",null,B.ix,B.lM,B.lL,B.lZ,B.ix,B.lM,B.lL,B.lZ,0)
+B.m_=new A.i(4282424575)
+B.iN=new A.bY(B.ix,"systemBlue",null,B.ix,B.lM,B.lL,B.m_,B.ix,B.lM,B.lL,B.m_,0)
 B.is=new A.i(1279016003)
 B.lE=new A.i(1290529781)
 B.lG=new A.i(1614560323)
@@ -83641,8 +83641,8 @@ B.Fq=new A.cv(null,null,null,null,null,B.f,null,null,null)
 B.Fr=new A.cv(null,null,null,null,null,B.k,null,null,null)
 B.n2=new A.cv(24,0,400,0,48,B.k,1,null,!1)
 B.F_=new A.bi(58289,!1)
-B.lY=new A.i(4282214802)
-B.Fs=new A.cc(B.F_,80,B.lY,null,null)
+B.lZ=new A.i(4282214802)
+B.Fs=new A.cc(B.F_,80,B.lZ,null,null)
 B.Ft=new A.cc(B.n1,40,B.f,null,null)
 B.F5=new A.bi(58644,!1)
 B.Fv=new A.cc(B.F5,36,B.f,null,null)
@@ -83668,7 +83668,7 @@ B.n0=new A.bi(58449,!1)
 B.CX=new A.i(4294309365)
 B.CP=new A.i(4293848814)
 B.CF=new A.i(4290624957)
-B.N0=new A.cu([50,B.mc,100,B.CX,200,B.CP,300,B.m8,350,B.dm,400,B.CF,500,B.m3,600,B.ec,700,B.iD,800,B.c9,850,B.iA,900,B.lR],t.pl)
+B.N0=new A.cu([50,B.mc,100,B.CX,200,B.CP,300,B.m9,350,B.dm,400,B.CF,500,B.m3,600,B.ec,700,B.iD,800,B.c9,850,B.iA,900,B.lR],t.pl)
 B.bR=new A.o7(B.N0,4288585374)
 B.et=new A.cc(B.n0,36,B.bR,null,null)
 B.Fz=new A.cc(B.n_,20,B.f,null,null)
@@ -85729,7 +85729,7 @@ B.Ci=new A.i(4282017938)
 B.VG=new A.q(!0,B.Ci,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.W3=new A.em("Login to your account",null,B.VG,null,null,null,null,null,null)
 B.zf=new A.em("Enter QR code link",null,null,null,null,null,null,null,null)
-B.SB=new A.q(!0,B.lY,null,null,null,null,32,B.I,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.SB=new A.q(!0,B.lZ,null,null,null,null,32,B.I,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.W4=new A.em("Welcome Back",null,B.SB,null,null,null,null,null,null)
 B.Tv=new A.q(!0,B.f,null,null,null,null,10,B.I,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.d4=new A.em("1",null,B.Tv,B.aF,null,null,null,null,null)
